@@ -32,15 +32,15 @@ This is a hypothetical dataset created by IBM data scientists. The dataset has (
 
 #### Dataset Attributes
 ```
-1] Age
-2] Attrition
-3] BusinessTravel
-4] DailyRate
-5] Department
-6] DistanceFromHome
-7] Education
-8] EducationField
-9] EmployeeCount
+01] Age
+02] Attrition
+03] BusinessTravel
+04] DailyRate
+05] Department
+06] DistanceFromHome
+07] Education
+08] EducationField
+09] EmployeeCount
 10] EmployeeNumber
 11] EnvironmentSatisfaction
 12] Gender
