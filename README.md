@@ -1,7 +1,10 @@
 ## IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction
 
 ### HR ANALYTICS
-Human resource analytics (HR analytics) is an area in the field of analytics that refers to applying analytic processes to the human resource department of an organization in the hope of improving employee performance and therefore getting a better return on investment. HR analytics does not just deal with gathering data on employee efficiency. Instead, it aims to provide insight into each process by gathering data and then using it to make relevant decisions about how to improve these processes.
+HR analytics involves applying analytic processes to the human resource department to improve employee performance and get a better return on investment. It aims to provide insight into each process by gathering data and using it to make relevant decisions.
+
+### DATASET
+This is a hypothetical dataset created by IBM data scientists. The dataset has (1470R X 35C) that contains numeric and categorical data types describing each employee’s background and characteristics, and labeled with whether they are still in the company or whether they have gone to work somewhere else. 
 
 ### Libraries used:
 - Pandas
