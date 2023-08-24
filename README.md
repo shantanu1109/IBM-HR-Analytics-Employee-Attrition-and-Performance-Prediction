@@ -35,6 +35,6 @@ This is a hypothetical dataset created by IBM data scientists. The dataset has (
 | AdaBoost                  |         0.9077          |        0.8322          |
 
 
-
+<div align="center"> <img src="https://github.com/shantanu1109/IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction/blob/main/IMAGES/File-5-ROC-Curve.png" alt="ROC Curve"> </div>
 
 
