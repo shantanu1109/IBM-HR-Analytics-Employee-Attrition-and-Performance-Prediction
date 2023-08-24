@@ -80,6 +80,15 @@ https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+##  :scroll: LICENSE
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+ 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+
+
 ### :chart_with_upwards_trend: COMPARING MODEL PERFORMANCE USING ROC CURVE
 
 <div align="center"> <img src="https://github.com/shantanu1109/IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction/blob/main/IMAGES/File-5-ROC-Curve.png" alt="ROC Curve"> </div>
