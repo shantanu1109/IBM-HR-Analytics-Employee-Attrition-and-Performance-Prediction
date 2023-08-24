@@ -30,6 +30,45 @@ The project stems from the potential to improve employee satisfaction, reduce co
 ### :file_folder: DATASET
 This is a hypothetical dataset created by IBM data scientists. The dataset has (1470R X 35C) that contains numeric and categorical data types describing each employee’s background and characteristics, and labeled with whether they are still in the company or whether they have gone to work somewhere else. 
 
+```
+Dataset Attributes
+Age
+Attrition
+BusinessTravel
+DailyRate
+Department
+DistanceFromHome
+Education
+EducationField
+EmployeeCount
+EmployeeNumber
+EnvironmentSatisfaction
+Gender
+HourlyRate
+JobInvolvement
+JobLevel
+JobRole
+JobSatisfaction
+MaritalStatus
+MonthlyIncome
+MonthlyRate
+NumCompaniesWorked
+Over18
+OverTime
+PercentSalaryHike
+PerformanceRating
+RelationshipSatisfaction
+StandardHours
+StockOptionLevel
+TotalWorkingYears
+TrainingTimesLastYear
+WorkLifeBalance
+YearsAtCompany
+YearsInCurrentRole
+YearsSinceLastPromotion
+YearsWithCurrManager
+```
+
 Dataset Link:
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
