@@ -5,8 +5,9 @@ HR analytics is the process of collecting and analyzing Human Resource (HR) data
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Problem STATEMENT
-Understanding why and when employees are likely to leave can improve employee retention and hiring planning. I will use a step-by-step systematic approach for "HR Analytics" or "People Analytics".
+### OBJECTIVE
+
+Employee attrition is the rate at which employees leave a company. The goal of this analysis is to model employee attrition and determine the most dominant contributing factors that govern this turnover. Through this kind of analysis, we can understand how many employees are likely to leave, while also determining which employees are at the highest risk and for what reasons.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
