@@ -55,7 +55,13 @@ https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ### :warning: PREREQUISITES
 
 ```
-Python Programming, Data Science, Data Pre-processing, Data Visualization, Statistical Analysis, Machine Learning Algorithms, Performance Metrics.
+- Python Programming
+- Data Science
+- Data Pre-processing
+- Data Visualization
+- Statistical Analysis
+- Machine Learning Algorithms
+- Performance Metrics.
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
