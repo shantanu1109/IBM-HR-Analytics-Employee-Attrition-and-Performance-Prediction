@@ -31,6 +31,21 @@ The project stems from the potential to improve employee satisfaction, reduce co
 
 <div align="center"> <img src="https://github.com/shantanu1109/IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction/blob/main/IMAGES/File-5-System-Architecture-Diagram.jpeg" alt="System Architecture"> </div>
 
+#### The methodology for IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction is as follows:-
+```
+Load the Dataset: The IBM HR Analytics Attrition Dataset is loaded using the pd.read_csv() function. The head() and info() methods are used to display the first few rows and get information about the dataset, respectively.
+Knowing the Dataset: Basic Information about the dataset is generated; numerical and categorical attributes are enlisted.
+Data Cleaning: Any missing values in the dataset are dropped using the dropna() method.
+Data Visualization: Matplotlib and Seaborn libraries are used to visualize the data. 
+Statistical Analysis: The ANOVA Test is performed to analyze the Numerical Features' Importance in Employee Attrition, while the Chi-Square Test to Analyze the Categorical Feature Importance in Employee Attrition.
+Data Preprocessing: The target variable 'Attrition' is mapped to binary values (1 for 'Yes' and 0 for 'No'). Selected features are extracted from the dataset and one-hot encoded using the get_dummies() function.
+Splitting the Dataset: The dataset is split into training and testing sets using the train_test_split() method from scikit-learn.
+Implementing Machine Learning Algorithms: Logistic Regression, XGBoost, CatBoost, AdaBoost, LightGBM, Decision Tree, and Random Forest classifiers are initialized and trained using the training data.
+Model Evaluation: The accuracy score and confusion matrix are computed to evaluate the performance of each algorithm on the testing data.
+Results: The results, including the accuracy and confusion matrix, are printed for each algorithm.
+Model Performance Comparison: The hvPlot library is used to visualize the ROC curve diagram comparing the performance of all models used.
+```
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### :file_folder: DATASET
