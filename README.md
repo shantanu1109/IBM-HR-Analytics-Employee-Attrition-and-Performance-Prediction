@@ -32,15 +32,15 @@ This is a hypothetical dataset created by IBM data scientists. The dataset has (
 
 ### DATA MODELING
 
-|         ALGORITHMS        | TRAINING ACCURACY SCORE | TESTING ACCURACY SCORE |
-| --------------------------| ----------------------- | ---------------------- |
-| Logistic Regression       |         0.9271          |        0.8639          |
-| Random Forest             |         0.8902          |        0.8413          |
-| Support Vector Machine    |         0.9349          |        0.8662          |
-| XGBoost                   |         1.0000          |        0.8526          |
-| LightGBM                  |         1.0000          |        0.8390          |
-| CatBoost                  |         0.9845          |        0.8503          |
-| AdaBoost                  |         0.9077          |        0.8322          |
+|         ALGORITHMS        | TRAINING  DATA ACCURACY SCORE | TESTING DATA ACCURACY SCORE |
+| --------------------------| ----------------------------- | --------------------------- |
+| Logistic Regression       |            0.9271             |           0.8639            |
+| Random Forest             |            0.8902             |           0.8413            |
+| Support Vector Machine    |            0.9349             |           0.8662            |
+| XGBoost                   |            1.0000             |           0.8526            |
+| LightGBM                  |            1.0000             |           0.8390            |
+| CatBoost                  |            0.9845             |           0.8503            |
+| AdaBoost                  |            0.9077             |           0.8322            |
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
