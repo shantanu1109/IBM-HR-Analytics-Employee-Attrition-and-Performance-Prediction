@@ -13,6 +13,9 @@ Understanding why and when employees are likely to leave can improve employee re
 ### DATASET
 This is a hypothetical dataset created by IBM data scientists. The dataset has (1470R X 35C) that contains numeric and categorical data types describing each employee’s background and characteristics, and labeled with whether they are still in the company or whether they have gone to work somewhere else. 
 
+This is a fictional dataset created by IBM data scientists collected from Kaggle.
+https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### LIBRARIES USED:
