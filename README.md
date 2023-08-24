@@ -1,5 +1,5 @@
 <div align= "center">
-    <h1> IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction </h1><br>
+    <h2> IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction </h2><br>
 </div>
 
 
