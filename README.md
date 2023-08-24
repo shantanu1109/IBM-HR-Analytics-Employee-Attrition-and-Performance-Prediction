@@ -33,7 +33,7 @@ The project stems from the potential to improve employee satisfaction, reduce co
 
 #### The methodology for IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction is as follows:-
 ```
-- Load the Dataset: The IBM HR Analytics Attrition Dataset is loaded using the pd.read_csv() function. The head() and info() methods are used to display the first few rows and get information about the dataset, respectively.
+- **Load the Dataset:** The IBM HR Analytics Attrition Dataset is loaded using the pd.read_csv() function. The head() and info() methods are used to display the first few rows and get information about the dataset, respectively.
 - Knowing the Dataset: Basic Information about the dataset is generated; numerical and categorical attributes are enlisted.
 - Data Cleaning: Any missing values in the dataset are dropped using the dropna() method.
 - Data Visualization: Matplotlib and Seaborn libraries are used to visualize the data. 
